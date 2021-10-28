@@ -1,0 +1,36 @@
+[
+    {
+        "category": "Capsules",
+        "types": [
+            {
+                "name": "All Capsules",
+                "urlroute": "/capsules"
+            },
+            {
+                "name": "Upcoming Capsules",
+                "urlroute": "/capsules/upcoming"
+            },
+            {
+                "name": "Past Capsules",
+                "urlroute": "/capsules/past"  
+            }
+        ]
+    },
+    {
+        "category": "Cores",
+        "types": [
+            {
+                "name": "All Cores",
+                "urlroute": "/cores"
+            },
+            {
+                "name": "Upcoming Cores",
+                "urlroute": "/cores/upcoming"
+            },
+            {
+                "name": "Past Cores",
+                "urlroute": "/cores/past"  
+            }
+        ]
+    }
+]
